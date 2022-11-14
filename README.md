@@ -1,6 +1,6 @@
 # `@babel/plugin-proposal-unicode-sets-regex`
 
-Run the test:
+Running the test (after `npm install`):
 
 ```
 npx babel-node plugin-test.cjs
